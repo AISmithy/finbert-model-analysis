@@ -5,4 +5,10 @@ pandas
 matplotlib
 scikit-learn
 transformers
+torch
+
+# Additional dependencies for missing imports
+yfinance
+yahoo_fin
+streamlit
 

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-11-08T17:22:26.718402Z",
+  "model": "ProsusAI/finbert",
+  "test_size": 0.2,
+  "classes": [
+    "negative",
+    "neutral"
+  ],
+  "accuracy": 1.0,
+  "f1_macro": 1.0,
+  "confusion_matrix_png": "runs\\baseline_finbert\\confusion_matrix.png",
+  "n_train": 16,
+  "n_test": 4
+}
